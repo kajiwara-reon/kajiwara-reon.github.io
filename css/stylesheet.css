@@ -15,3 +15,7 @@
     width: 128px;
     display: inline-block;
 }
+
+.flex {
+    display: flex;
+}
